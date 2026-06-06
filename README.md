@@ -65,7 +65,6 @@ It helps students and academic administrators monitor academic performance effic
 ## 🛠 Technologies Used
 
 - Power BI Desktop
-- DAX
 - Data Visualization
 - Dashboard Design
 - Data Analysis
@@ -125,7 +124,3 @@ Aspiring Data Analyst | Power BI Developer
 GitHub: https://github.com/saikirangoudkaringula
 
 ---
-
-## 📝 License
-
-This project is open source and available under the MIT License.
