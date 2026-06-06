@@ -85,6 +85,25 @@ This screenshot shows the complete Student Result Analysis Dashboard with:
 
 ---
 
+## 📂 Dashboard Files
+
+### Main Dashboard File
+
+- **student_results_dashboard.pbix** - The primary Power BI dashboard file containing all visualizations, filters, and KPIs for student result analysis
+  - Contains interactive charts and graphs
+  - Includes DAX measures and calculations
+  - Features slicers for filtering by HTNO and Grade Points
+  - Ready to use with Power BI Desktop
+
+### How to Open the Dashboard
+
+1. Download the `.pbix` file from the repository
+2. Open Power BI Desktop (if not already installed, download from [microsoft.com](https://www.microsoft.com/en-us/download/details.aspx?id=58494))
+3. Click **File** → **Open** → Select the `.pbix` file
+4. The dashboard will load with all data and visualizations
+
+---
+
 ## 📚 Subjects Included
 
 - Computer Organization and Architecture
