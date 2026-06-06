@@ -23,6 +23,7 @@ It helps students and academic administrators monitor academic performance effic
 ### Key Performance Indicators (KPIs)
 
 - Count of Attended Classes
+- External Marks by Subject
 - Total Grade Points
 - Total Credits Earned
 - Final Grade
@@ -73,13 +74,15 @@ It helps students and academic administrators monitor academic performance effic
 
 ## 📷 Dashboard Screenshots
 
-### Dashboard Overview
+### Main Dashboard Overview
 
 ![Dashboard Overview](images/dashboard-overview.png)
 
-### Final Dashboard Design
-
-![Final Dashboard](images/dashboard-final.png)
+This screenshot shows the complete Student Result Analysis Dashboard with:
+- KPI cards displaying attended classes, grade points, and credits
+- Interactive HTNO filter for personalized analysis
+- Subject-wise performance visualization
+- Grade distribution analysis
 
 ---
 
@@ -103,6 +106,16 @@ To create an interactive academic performance dashboard that enables users to an
 
 ---
 
+## 📖 How to Use
+
+1. Open the Power BI file in Power BI Desktop
+2. Use the HTNO filter to select a specific student or view all students
+3. Use the Grade Points filter to filter by grade points range
+4. Analyze the visualizations for subject-wise performance insights
+5. Monitor KPIs for overall academic metrics
+
+---
+
 ## 👨‍💻 Author
 
 **Saikiran Goud**
@@ -110,3 +123,9 @@ To create an interactive academic performance dashboard that enables users to an
 Aspiring Data Analyst | Power BI Developer
 
 GitHub: https://github.com/saikirangoudkaringula
+
+---
+
+## 📝 License
+
+This project is open source and available under the MIT License.
