@@ -75,7 +75,7 @@ It helps students and academic administrators monitor academic performance effic
 
 ### Main Dashboard Overview
 
-![Student Results Dashboard](student%20results%20dashboaRD.png)
+![Student Results Dashboard](DASHBOARD.png)
 
 This screenshot shows the complete Student Result Analysis Dashboard with:
 - KPI cards displaying attended classes, grade points, and credits
@@ -91,7 +91,6 @@ This screenshot shows the complete Student Result Analysis Dashboard with:
 
 - **student_results_dashboard.pbix** - The primary Power BI dashboard file containing all visualizations, filters, and KPIs for student result analysis
   - Contains interactive charts and graphs
-  - Includes DAX measures and calculations
   - Features slicers for filtering by HTNO and Grade Points
   - Ready to use with Power BI Desktop
 
