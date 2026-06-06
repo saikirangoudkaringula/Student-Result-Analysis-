@@ -76,7 +76,7 @@ It helps students and academic administrators monitor academic performance effic
 
 ### Main Dashboard Overview
 
-![Dashboard Overview](images/dashboard-overview.png)
+![Student Results Dashboard](student%20results%20dashboaRD.png)
 
 This screenshot shows the complete Student Result Analysis Dashboard with:
 - KPI cards displaying attended classes, grade points, and credits
